@@ -1,0 +1,32 @@
+table{
+  margin: 0px 20px;
+  border: thin solid black;
+  caption-side: bottom;
+  border-collapse: collapse;
+}
+
+td, th {
+  border: thin dotted gray;
+  padding: 5px;
+}
+
+th{
+  background-color: #cc6600;
+}
+
+.pintar{
+  background-color: #fcba7a;
+}
+
+caption{
+  font-style: italic;
+  padding-top: 8px;
+}
+
+.centrado{
+  text-align: center;
+}
+
+.derecha{
+  text-align: right;
+}
